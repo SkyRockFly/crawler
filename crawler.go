@@ -41,7 +41,7 @@ func main() {
 		fmt.Fprintf(os.Stderr, "\n🐻 Bear Hunter v1.0\n")
 		fmt.Fprintf(os.Stderr, "Scan posts by author and ID range.\n\n")
 		fmt.Fprintf(os.Stderr, "Usage:\n")
-		fmt.Fprintf(os.Stderr, "  parser.exe [options]\n\n")
+		fmt.Fprintf(os.Stderr, "  bearscraper.exe [options]\n\n")
 		fmt.Fprintf(os.Stderr, "Options:\n")
 		flag.PrintDefaults()
 	}
